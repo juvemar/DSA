@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Election", "01. Election\01. Election.csproj", "{4845FA20-6D6A-434B-A930-6C1733CB4F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Renewal", "02. Renewal\02. Renewal.csproj", "{D2CB4679-BE2B-44B2-90B9-70D2530C9072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ShortestPath", "03. ShortestPath\03. ShortestPath.csproj", "{7F0538E4-3745-432C-BD7B-56F381E8AA25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4845FA20-6D6A-434B-A930-6C1733CB4F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4845FA20-6D6A-434B-A930-6C1733CB4F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4845FA20-6D6A-434B-A930-6C1733CB4F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4845FA20-6D6A-434B-A930-6C1733CB4F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2CB4679-BE2B-44B2-90B9-70D2530C9072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CB4679-BE2B-44B2-90B9-70D2530C9072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2CB4679-BE2B-44B2-90B9-70D2530C9072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CB4679-BE2B-44B2-90B9-70D2530C9072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F0538E4-3745-432C-BD7B-56F381E8AA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F0538E4-3745-432C-BD7B-56F381E8AA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F0538E4-3745-432C-BD7B-56F381E8AA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F0538E4-3745-432C-BD7B-56F381E8AA25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
